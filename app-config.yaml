@@ -1,3 +1,4 @@
+enableExperimentalRedirectFlow: true
 app:
   title: Scaffolded Backstage App
   baseUrl: http://localhost:3000
